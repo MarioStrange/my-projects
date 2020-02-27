@@ -1,0 +1,10 @@
+ Volume in drive C is Acer
+ Volume Serial Number is C0F7-D075
+
+ Directory of C:\Users\Korisnik\Desktop\Learning\GIT Learning
+
+27.02.2020.  14:25    <DIR>          .
+27.02.2020.  14:25    <DIR>          ..
+27.02.2020.  14:25                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  74.701.041.664 bytes free
